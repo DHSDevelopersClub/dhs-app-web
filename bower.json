@@ -1,0 +1,7 @@
+{
+  "name": "dhs-app-web",
+  "version": "0.0.0",
+  "homepage": "https://github.com/DHSDevelopersClub/dhs-app-web",
+  "license": "GNU GPL 2.0",
+  "private": true,
+}
